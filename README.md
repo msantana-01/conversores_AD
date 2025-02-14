@@ -33,8 +33,6 @@ Este projeto utiliza um Raspberry Pi Pico para controlar LEDs e um display OLED 
 | LED Verde         | GPIO 11      |
 | LED Azul          | GPIO 12      |
 | LED Vermelho      | GPIO 13      |
-| Display SDA       | GPIO 0       |
-| Display SCL       | GPIO 1       |
 
 ## Configuração do Ambiente
 
