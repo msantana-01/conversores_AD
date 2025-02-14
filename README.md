@@ -42,8 +42,8 @@ Este projeto utiliza um Raspberry Pi Pico para controlar LEDs e um display OLED 
 2. **Clone este repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/msantana-01/conversores_AD
+   cd conversores_AD
    ```
 
 3. **Configure o projeto**:
@@ -91,11 +91,3 @@ Este projeto utiliza um Raspberry Pi Pico para controlar LEDs e um display OLED 
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias, correções de bugs ou novas funcionalidades.
-
-### Como usar
-
-1. Substitua `seu-usuario/seu-repositorio` pelo seu nome de usuário e repositório no GitHub.
-2. Adicione um arquivo `LICENSE` se desejar licenciar o projeto (por exemplo, a licença MIT).
-3. Personalize as seções conforme necessário para refletir melhor o seu projeto.
-
-Esse `README.md` fornece uma visão geral clara do projeto e instruções detalhadas para configurar e usar o código.
